@@ -1,0 +1,20 @@
+/*
+Theme Name: EMA
+Author: Sony Merlin
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ema
+*/
+#mega-menu-wrap-max_mega_menu_1 {
+    background: transparent !important;
+    margin-top: 50px !important;
+}
+#mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 {
+    float: right !important;
+}
+#mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-item > a.mega-menu-link{
+    font: normal normal bold 20px/26px Dosis !important;
+    letter-spacing: 0px !important;
+    text-transform: capitalize !important;
+}
